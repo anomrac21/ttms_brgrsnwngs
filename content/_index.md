@@ -1,9 +1,8 @@
 ---
 title: "Brgrs n Wngs"
 image: ""
-images:
-    - image: ""
+images: []
 slideshow: []
 ---
 
-<p>TTMenus Menu System.</p>
+<p>Halal certified burgers, wings, and fries in Chaguanas. Build your meal with sides and dipping sauces.</p>
