@@ -3,48 +3,48 @@
 
   /* Header */
   --header-color: #1a1a1aee;
+  --header-bg-color: #1a1a1aee;
   --header-text-color: #ffffff;
+  --header-icon-color: #ffffff;
   --header-text-shadow-color: #00000050;
   --header-bordercolor-1: #e85d04;
   --header-bordercolor-2: #2d6a4f;
-  --header-bg-color: #1a1a1aee;
-  --header-icon-color: #ffffff;
   --header-bg-image: none;
 
-  /* Hero / page background */
+  /* Hero */
   --hero-bg-color: #f5f0e6;
-  --hero-bg-image-fg-color: #f5f0e6;
+  --hero-bg-image-fg-color: #e85d04;
   --hero-text-color: #111111;
-  --contact-info-bg: none;
+  --contact-info-bg: #1a1a1a;
 
   /* Main */
+  --main-bg: #f5f0e6;
   --main-bg-color: #f5f0e6;
   --main-text-color: #111111;
-  --main-bg: #1a1a1a;
 
   /* Menu sections & cards */
   --menu-bg-color-1: #2d2d2d;
   --menu-bg-color-2: #1a1a1a;
-  --menu-text-color: #111111;
+  --menu-text-color: #ffffff;
 
-  /* Buttons / menu item cards */
+  /* Buttons */
   --button-color1: #2d2d2d;
   --button-color2: #1a1a1a;
   --button-text-color1: #ffffff;
   --button-text-color2: #ffffff;
   --button-text-color3: #ffffff;
 
-  /* Selected / hover */
+  /* Selected / active */
   --selected-button-color1: #e85d04;
   --selected-button-color2: #c44d03;
   --selected-button-color3: #f5f0e6;
-  --selected-button-color4: #111111ee;
+  --selected-button-color4: #1a1a1aee;
   --selected-text-color1: #ffffff;
   --selected-text-color2: #ffffff;
   --selected-text-color3: #2d6a4f;
 
   /* Footer & modals */
-  --footer-bg-color: #1a1a1a;
+  --footer-bg-color: #1a1a1aee;
   --footer-text-color: #f5f0e6;
   --modal-bg-container-color: #00000055;
 }

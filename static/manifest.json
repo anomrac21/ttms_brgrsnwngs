@@ -1,5 +1,5 @@
 {
-    "background_color": "#000000",
+    "background_color": "#1a1a1a",
     "description": "Brgrs n Wngs Digital Menu",
     "display": "standalone",
     "icons": [
@@ -68,5 +68,5 @@
     ],
     "short_name": "Brgrs n Wngs",
     "start_url": ".",
-    "theme_color": "#000000"
+    "theme_color": "#1a1a1a"
 }

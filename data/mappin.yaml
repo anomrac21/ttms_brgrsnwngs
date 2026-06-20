@@ -1,6 +1,6 @@
 # Exported in /index.json as top-level "mappin" for TTMenus hub map pins.
-# Defaults: black fill, white stroke (override per brand as needed).
+# Brgrs n Wngs: orange fill, white stroke.
 
-fill: "#000000"
+fill: "#e85d04"
 border: "#ffffff"
 border_width: 2
