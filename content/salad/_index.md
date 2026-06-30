@@ -1,7 +1,9 @@
 ---
 title: Salad
 weight: 5
-icon: https://cdn.ttmenus.com/icons/food/hamburger.svg
+icon: images/salad.webp
+images:
+    primary: images/salad.webp
 ---
 
 House salad with optional protein.

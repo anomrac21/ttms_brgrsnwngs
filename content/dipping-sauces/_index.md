@@ -1,7 +1,9 @@
 ---
 title: Dipping Sauces
 weight: 6
-icon: https://cdn.ttmenus.com/icons/food/hamburger.svg
+icon: images/dipping-sauces.webp
+images:
+    primary: images/dipping-sauces.webp
 ---
 
 Extra dipping sauces.
