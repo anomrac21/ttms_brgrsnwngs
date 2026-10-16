@@ -1,50 +1,64 @@
 :root {
-  /* Brgrs n Wngs brand: black, orange, green */
+    /* Header */
+    --header-color: #1a1a1a;
+    --header-bg-color: #1a1a1a;
+    --header-text-color: #ffffff;
+    --header-text-shadow-color: #00000050;
+    --header-icon-color: #ffffff;
+    --header-bordercolor-1: #e85d04;
+    --header-bordercolor-2: #2d6a4f;
+    --header-border-color: #e85d04;
+    --header-bg-image: none;
 
-  /* Header */
-  --header-color: #1a1a1aee;
-  --header-bg-color: #1a1a1aee;
-  --header-text-color: #ffffff;
-  --header-icon-color: #ffffff;
-  --header-text-shadow-color: #00000050;
-  --header-bordercolor-1: #e85d04;
-  --header-bordercolor-2: #2d6a4f;
-  --header-bg-image: none;
+    /* Hero */
+    --hero-bg-color: #1a1a1a;
+    --hero-bg-color-1: #1a1a1a;
+    --hero-bg-color-2: #1a1a1a;
+    --hero-bg-image-fg-color: #e85d04;
+    --hero-text-color: #ffffff;
+    --hero-features-icon-color: #ffffff;
+    --hero-features-icon-bg-color: #1a1a1a;
+    --hero-border-color: #e85d04;
+    --contact-info-bg: #1a1a1a;
 
-  /* Hero */
-  --hero-bg-color: #f5f0e6;
-  --hero-bg-image-fg-color: #e85d04;
-  --hero-text-color: #111111;
-  --contact-info-bg: #1a1a1a;
+    /* Main */
+    --main-bg: #1a1a1a;
+    --main-bg-color: #1a1a1a;
+    --main-text-color: #ffffff;
 
-  /* Main */
-  --main-bg: #f5f0e6;
-  --main-bg-color: #f5f0e6;
-  --main-text-color: #111111;
+    /* Menu */
+    --menu-bg-color-1: #2d2d2d;
+    --menu-bg-color-2: #1a1a1a;
+    --menu-text-color: #ffffff;
 
-  /* Menu sections & cards */
-  --menu-bg-color-1: #2d2d2d;
-  --menu-bg-color-2: #1a1a1a;
-  --menu-text-color: #ffffff;
+    /* Buttons */
+    --button-color1: #2d2d2d;
+    --button-color2: #1a1a1a;
+    --button-text-color1: #ffffff;
+    --button-text-color2: #ffffff;
+    --button-text-color3: #ffffff;
+    --favorite-color: #e85d04;
 
-  /* Buttons */
-  --button-color1: #2d2d2d;
-  --button-color2: #1a1a1a;
-  --button-text-color1: #ffffff;
-  --button-text-color2: #ffffff;
-  --button-text-color3: #ffffff;
+    /* Selected */
+    --selected-button-color1: #e85d04;
+    --selected-button-color2: #c44d03;
+    --selected-button-color3: #2d6a4f;
+    --selected-button-color4: #1a1a1a;
+    --selected-text-color1: #ffffff;
+    --selected-text-color2: #ffffff;
+    --selected-text-color3: #ffffff;
+    --select-color: #2d6a4f;
 
-  /* Selected / active */
-  --selected-button-color1: #e85d04;
-  --selected-button-color2: #c44d03;
-  --selected-button-color3: #f5f0e6;
-  --selected-button-color4: #1a1a1aee;
-  --selected-text-color1: #ffffff;
-  --selected-text-color2: #ffffff;
-  --selected-text-color3: #2d6a4f;
+    /* Accent */
+    --accent-color: #e85d04;
+    --accent-text-color: #ffffff;
+    --accent-glow-color: #f5f0e6;
 
-  /* Footer & modals */
-  --footer-bg-color: #1a1a1aee;
-  --footer-text-color: #f5f0e6;
-  --modal-bg-container-color: #00000055;
+    /* Footer */
+    --footer-bg-color: #1a1a1a;
+    --footer-text-color: #f5f0e6;
+    --footer-icon-color: #f5f0e6;
+
+    /* Modal */
+    --modal-bg-container-color: #000000;
 }

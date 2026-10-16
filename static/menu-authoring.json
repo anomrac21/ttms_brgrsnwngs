@@ -1,0 +1,151 @@
+{
+  "multi_location_menus": false,
+  "shared": [
+    {
+      "section": "build-your-meal",
+      "file": "build-your-meal",
+      "authoring": "shared",
+      "content_path": "content/_shared/build-your-meal/build-your-meal.md"
+    },
+    {
+      "section": "burgers",
+      "file": "black-beans-quinoa",
+      "authoring": "shared",
+      "content_path": "content/_shared/burgers/black-beans-quinoa.md"
+    },
+    {
+      "section": "burgers",
+      "file": "crispy-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/burgers/crispy-chicken.md"
+    },
+    {
+      "section": "burgers",
+      "file": "farm-fresh-eggs",
+      "authoring": "shared",
+      "content_path": "content/_shared/burgers/farm-fresh-eggs.md"
+    },
+    {
+      "section": "burgers",
+      "file": "grassfed-beef",
+      "authoring": "shared",
+      "content_path": "content/_shared/burgers/grassfed-beef.md"
+    },
+    {
+      "section": "burgers",
+      "file": "grassfed-lamb",
+      "authoring": "shared",
+      "content_path": "content/_shared/burgers/grassfed-lamb.md"
+    },
+    {
+      "section": "burgers",
+      "file": "white-fish-fillet",
+      "authoring": "shared",
+      "content_path": "content/_shared/burgers/white-fish-fillet.md"
+    },
+    {
+      "section": "dipping-sauces",
+      "file": "buffalo",
+      "authoring": "shared",
+      "content_path": "content/_shared/dipping-sauces/buffalo.md"
+    },
+    {
+      "section": "dipping-sauces",
+      "file": "garlic",
+      "authoring": "shared",
+      "content_path": "content/_shared/dipping-sauces/garlic.md"
+    },
+    {
+      "section": "dipping-sauces",
+      "file": "hickory-smoked-bbq",
+      "authoring": "shared",
+      "content_path": "content/_shared/dipping-sauces/hickory-smoked-bbq.md"
+    },
+    {
+      "section": "dipping-sauces",
+      "file": "honey-mustard",
+      "authoring": "shared",
+      "content_path": "content/_shared/dipping-sauces/honey-mustard.md"
+    },
+    {
+      "section": "dipping-sauces",
+      "file": "pepper",
+      "authoring": "shared",
+      "content_path": "content/_shared/dipping-sauces/pepper.md"
+    },
+    {
+      "section": "dipping-sauces",
+      "file": "ranch",
+      "authoring": "shared",
+      "content_path": "content/_shared/dipping-sauces/ranch.md"
+    },
+    {
+      "section": "dipping-sauces",
+      "file": "roasted-geera-tamarind",
+      "authoring": "shared",
+      "content_path": "content/_shared/dipping-sauces/roasted-geera-tamarind.md"
+    },
+    {
+      "section": "dipping-sauces",
+      "file": "the-hot-one",
+      "authoring": "shared",
+      "content_path": "content/_shared/dipping-sauces/the-hot-one.md"
+    },
+    {
+      "section": "fries",
+      "file": "cassava-fries",
+      "authoring": "shared",
+      "content_path": "content/_shared/fries/cassava-fries.md"
+    },
+    {
+      "section": "fries",
+      "file": "french-fries",
+      "authoring": "shared",
+      "content_path": "content/_shared/fries/french-fries.md"
+    },
+    {
+      "section": "fries",
+      "file": "sweet-potato-fries",
+      "authoring": "shared",
+      "content_path": "content/_shared/fries/sweet-potato-fries.md"
+    },
+    {
+      "section": "promotions",
+      "file": "lunch-deal",
+      "authoring": "shared",
+      "content_path": "content/_shared/promotions/lunch-deal.md"
+    },
+    {
+      "section": "salad",
+      "file": "house-salad",
+      "authoring": "shared",
+      "content_path": "content/_shared/salad/house-salad.md"
+    },
+    {
+      "section": "special-deals",
+      "file": "kids-meal",
+      "authoring": "shared",
+      "content_path": "content/_shared/special-deals/kids-meal.md"
+    },
+    {
+      "section": "special-deals",
+      "file": "lunch-deal",
+      "authoring": "shared",
+      "content_path": "content/_shared/special-deals/lunch-deal.md"
+    },
+    {
+      "section": "wings-chicken",
+      "file": "crispy-chicken-wings",
+      "authoring": "shared",
+      "content_path": "content/_shared/wings-chicken/crispy-chicken-wings.md"
+    },
+    {
+      "section": "wings-chicken",
+      "file": "crispy-popcorn-chicken",
+      "authoring": "shared",
+      "content_path": "content/_shared/wings-chicken/crispy-popcorn-chicken.md"
+    }
+  ],
+  "location": [],
+  "generated_at": "2026-10-16T01:48:17.560818+00:00"
+}

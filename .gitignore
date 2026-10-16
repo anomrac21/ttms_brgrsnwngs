@@ -17,6 +17,10 @@ desktop.ini
 *.swo
 *~
 
+/bin
+/content/.generated/**
+!/content/.generated/.gitkeep
+
 # Python
 __pycache__/
 *.pyc

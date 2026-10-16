@@ -51,6 +51,8 @@
         }
     ],
     "name": "Brgrs n Wngs",
+    "id": "/",
+    "scope": "/",
     "screenshots": [
         {
             "form_factor": "wide",
@@ -67,6 +69,6 @@
         }
     ],
     "short_name": "Brgrs n Wngs",
-    "start_url": ".",
+    "start_url": "/",
     "theme_color": "#1a1a1a"
 }

@@ -1,5 +1,6 @@
 locations:
-  - address: "Next to Central Warehousing Complex, The Box Yard #1 Baboonia Trace, Warner Village, Charlieville Off, Munroe Road, Flyover"
+  - slug: chaguanas
+    address: "Next to Central Warehousing Complex, The Box Yard #1 Baboonia Trace, Warner Village, Charlieville Off, Munroe Road, Flyover"
     city: "Chaguanas"
     island: "Trinidad"
     latlon: [10.567344,-61.417806]
